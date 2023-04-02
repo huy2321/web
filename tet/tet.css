@@ -1,0 +1,195 @@
+.header{
+    display: flex;
+   
+    background-color: white;
+    color: gray;
+    border-radius: 9px;
+    /* margin: 20px; */
+   
+    font-size: 20px;
+}
+/* .imgo{
+   padding-left: 30px;
+
+    
+} */
+body{
+  margin: 0px 0px;
+}
+
+.textinimg{    
+    left: 0;
+    right: 0;
+    top: calc(50% - 36px);
+    
+}
+.text {
+    color: white;
+    position: absolute;
+    text-transform: capitalize;
+    font-style: oblique;
+    font-size: 50px;
+    text-align: center;
+    margin: auto;
+    margin-top: 400px;
+    margin-left: 450px;
+    margin-right: 450px;
+    }
+    .te{
+        margin: 30px;
+        font-size: 26px;
+        text-align: center;
+        padding-left: 250px;
+        padding-right: 300px;
+        color: gray;
+        font-style: italic;
+    }
+    .bottom{
+        /* background:red; */
+        border-radius: 8px;
+        /* justify-content: space-between; */
+        padding: 30px;
+        background:url(https://vietnam.travel/themes/custom/vietnamtourism/images/bg-red-pattern.png) 50%;
+        background-size: 100px;
+        position: relative;
+        margin: 0;
+        
+        
+    }
+    .textbottom{
+        color: white;
+        font-style: oblique;
+        text-align: center;
+       display: inline;
+    }
+
+    .imgmargin{
+        display: flex;
+        justify-content: space-around;
+        text-align: center;
+        padding-left: 200px;
+        padding-right: 200px;
+
+    }
+    .extension{
+        display: flex;
+        justify-content: space-around;
+        width: 100%;
+        /* padding-top: 36px;
+        padding-right: 1.5em;
+        padding-bottom: 0px;
+        padding-left: 1.5em; */
+    }
+    .textheader{
+        padding: 36px 1.5em 0;
+    }
+/* .banner{
+  cursor: pointer;
+} */
+    .dropbtn {
+        background-color: #ffffff;
+        color: rgb(122, 119, 119);
+        padding: 16px;
+        font-size: 18px;
+        border: none;
+        margin-top: 25px;
+      }
+      
+      .dropdown {
+        position: relative;
+        display: inline-block;
+      }
+      
+      .dropdown-content {
+        display: none;
+        position: absolute;
+        background-color: #f1f1f1;
+        min-width: 160px;
+        box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+        z-index: 1;
+        cursor: pointer;
+        font-size: 18px;
+      }
+      
+      .dropdown-content a {
+        color: black;
+        padding: 12px 16px;
+        text-decoration: none;
+        display: block;
+      }
+      
+      .dropdown-content a:hover {
+        background-color: #ddd; 
+        cursor: pointer;
+      }
+      
+      .dropdown:hover .dropdown-content {
+        display: block;
+        cursor: pointer;
+      }
+      
+      .dropdown:hover .dropbtn {
+        background-color: rgb(236, 236, 236);
+      }
+.read:hover{
+  opacity: 0.7 ;
+  cursor: pointer;
+}
+
+/* .imgmargin:hover{
+  font-size: 100%;
+} */
+
+.A2{
+  font-family: VNFGothamBold,Helvetica,Arial,sans-serif;
+  font-size: 23px;
+  line-height: 24px;
+  color: #9e0b0f;
+}
+.wrapper{
+  padding: 20px 50px;
+  margin-left: 310px;
+  width: 775px;
+}
+.item-1{
+  width: 775px;
+}
+.A3{
+  color: gray;
+}
+.wrap2{
+  color: #b2910e;
+}
+.wrap3{
+  background-color: #A5190E;
+  width: 342px;
+  padding: 20px;
+  border-radius: 5px;
+  font: optional;color: white;
+  border: none;
+  margin-top: 10px;
+}
+.W4{
+  width: 300px;
+  padding: 20px;
+  border-radius: 2px;
+}
+.wrap1{
+  display: flex;
+  margin: 20px 100px;
+  
+}
+.D1{
+  margin-left: 100px;
+}
+.W3{
+  margin-left: 100px;
+  width: 30%;
+}
+.search{
+  cursor: pointer;
+  margin-top: 30px;
+}
+.fontsize{
+  font-size: 20px;
+}
